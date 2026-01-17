@@ -1,20 +1,54 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">a Computer Science & Engineering student with a strong interest in systems, backend development, and AI-driven applications. I enjoy building things from the ground up: from custom CPUs and low-level systems to full-stack web apps using Django, Spring, React, and modern cloud tooling. I’m especially drawn to projects that mix deep technical understanding with real-world impact, whether that’s scalable software, real-time systems, or speculative future tech. Always learning, always building.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=upn2xt&label=Profile%20views&color=0e75b6&style=flat" alt="upn2xt" /> </p>
+  # Hi there, I'm Omar! 👋
 
-- 🔭 I’m currently working on **Project Astra**
+  ### A Computer Science & Engineering Student
+  
+  <p align="center">
+    <i>Systems · Backend Development · AI-Driven Applications</i>
+  </p>
 
-- 🌱 I’m currently learning **Microservices architectures, distributed systems, system design, project life cycles, backend Security, database design, cloud deployment, and real-time web concepts.**
+  <p align="center">
+    I enjoy building things from the ground up: from custom CPUs and low-level systems to full-stack web apps using Django, Spring, React, and modern cloud tooling. I’m especially drawn to projects that mix deep technical understanding with real-world impact.
+  </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TsO4laVLzDq9OjZRLtUubjGHfHFfOtzX/view?usp=sharing](https://drive.google.com/file/d/1TsO4laVLzDq9OjZRLtUubjGHfHFfOtzX/view?usp=sharing)
+  <img src="https://komarev.com/ghpvc/?username=upn2xt&label=Profile%20views&color=0e75b6&style=flat" alt="upn2xt" />
 
-<h3 align="left">Connect with me:</h3>
+  ---
+
+  ### 📊 GitHub Stats
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=upn2xt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omar's GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upn2xt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  </p>
+
+</div>
+
+### 🛠️ Languages & Tools
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,js,ts,bash" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,django,nodejs,dotnet" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,sass" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,azure,git,grafana" /> |
+| **Tools & Game Dev** | <img src="https://skillicons.dev/icons?i=postman,unity" /> |
+
+---
+
+### 🔭 Current Focus
+
+- **Active Project:** working on **Project Astra**
+- **Learning Goals:** Microservices, Distributed Systems, System Design, Backend Security, and Real-time Web Concepts.
+
+### 🤝 Connect & Resume
+
 <p align="left">
-<a href="https://linkedin.com/in/in/omar-ahmed-b4a822290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/omar-ahmed-b4a822290/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/omar-ahmed-b4a822290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1TsO4laVLzDq9OjZRLtUubjGHfHFfOtzX/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FFCA28?style=for-the-badge&logo=google-drive&logoColor=black" alt="Resume" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-
