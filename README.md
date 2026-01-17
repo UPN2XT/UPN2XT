@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">— a Computer Science & Engineering student with a strong interest in systems, backend development, and AI-driven applications. I enjoy building things from the ground up: from custom CPUs and low-level systems to full-stack web apps using Django, Spring, React, and modern cloud tooling. I’m especially drawn to projects that mix deep technical understanding with real-world impact, whether that’s scalable software, real-time systems, or speculative future tech. Always learning, always building.</h3>
+<h3 align="center">a Computer Science & Engineering student with a strong interest in systems, backend development, and AI-driven applications. I enjoy building things from the ground up: from custom CPUs and low-level systems to full-stack web apps using Django, Spring, React, and modern cloud tooling. I’m especially drawn to projects that mix deep technical understanding with real-world impact, whether that’s scalable software, real-time systems, or speculative future tech. Always learning, always building.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upn2xt&label=Profile%20views&color=0e75b6&style=flat" alt="upn2xt" /> </p>
 
