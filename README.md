@@ -14,14 +14,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=upn2xt&label=Profile%20views&color=0e75b6&style=flat" alt="upn2xt" />
 
-  ---
-
-  ### 📊 GitHub Stats
-  <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=upn2xt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Omar's GitHub Stats" height="180"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=upn2xt&theme=tokyonight&hide_border=true" alt="Omar's Streak" height="180"/>
-  </p>
-
 </div>
 
 ### 🛠️ Languages & Tools
